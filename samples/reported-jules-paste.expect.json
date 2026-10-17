@@ -1,0 +1,39 @@
+{
+ "must": {
+  "accom": [
+   "read test questions and directions aloud",
+   "1.5x",
+   "read aloud in front of the class",
+   "orally"
+  ],
+  "testing": [
+   "2x"
+  ],
+  "health": [
+   "911",
+   "levetiracetam",
+   "rescue medication"
+  ],
+  "strengths": [
+   "building things"
+  ],
+  "services": [
+   "specialized reading instruction"
+  ],
+  "goals": [
+   "90 words correct per minute"
+  ]
+ },
+ "ids": [
+  "Jules",
+  "Okafor",
+  "Ngozi",
+  "01/09/2015",
+  "Jayden",
+  "Marcus",
+  "Daniels",
+  "Rosie"
+ ],
+ "file": "reported-jules.txt",
+ "paste": true
+}

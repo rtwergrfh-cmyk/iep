@@ -1,0 +1,61 @@
+{
+ "file": "messy-checkbox.pdf",
+ "must": {
+  "accom": [
+   "Extended time on assignments",
+   "Text-to-speech",
+   "guided notes",
+   "Chunking",
+   "calculator",
+   "Check for understanding",
+   "headphones"
+  ],
+  "testing": [
+   "Read aloud",
+   "Small group",
+   "Extended time"
+  ],
+  "goals": [
+   "main idea",
+   "two-step equations",
+   "begin independent work",
+   "ask for help"
+  ],
+  "behavior": [
+   "head down",
+   "avoid tasks",
+   "first step",
+   "help card"
+  ],
+  "services": [
+   "math",
+   "English language arts",
+   "Counseling",
+   "Speech"
+  ],
+  "health": [
+   "asthma"
+  ],
+  "strengths": [
+   "curious"
+  ]
+ },
+ "must_not": [
+  "Preferential seating",
+  "Reduced number of problems",
+  "Frequent breaks",
+  "Modified grading",
+  "Visual schedule",
+  "blind or visually impaired",
+  "alternate assessment",
+  "Check all that apply",
+  "Unchecked items"
+ ],
+ "ids": [
+  "Jordan",
+  "Ellis",
+  "11/02/2013",
+  "7731045",
+  "Carla"
+ ]
+}

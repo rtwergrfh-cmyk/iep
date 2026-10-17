@@ -1,0 +1,43 @@
+{
+ "file": "reported-sam.pdf",
+ "must": {
+  "accom": [
+   "1.5x",
+   "4 breaks of 5 minutes",
+   "Visual schedule"
+  ],
+  "at": [
+   "tablet with a speech app"
+  ],
+  "health": [
+   "EpiPen",
+   "911"
+  ],
+  "behavior": [
+   "Elopement",
+   "Do not chase"
+  ],
+  "strengths": [
+   "trains and puzzles"
+  ],
+  "goals": [
+   "request a break"
+  ],
+  "services": [
+   "Speech-language therapy"
+  ]
+ },
+ "must_not": [
+  "communication device device"
+ ],
+ "off_by_default": [
+  "Autism"
+ ],
+ "ids": [
+  "Sam",
+  "Rivera",
+  "Lena",
+  "02/11/2017",
+  "555-0172"
+ ]
+}

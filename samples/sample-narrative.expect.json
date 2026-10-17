@@ -1,0 +1,44 @@
+{
+ "must": {
+  "strengths": [
+   "kind and eager",
+   "loves music",
+   "routines"
+  ],
+  "accom": [
+   "Read directions aloud",
+   "slant board",
+   "answer questions orally",
+   "shortened spelling",
+   "visual schedule",
+   "movement breaks"
+  ],
+  "services": [
+   "reading instruction",
+   "Occupational therapy",
+   "consult"
+  ],
+  "goals": [
+   "consonant-vowel-consonant",
+   "40 words correct",
+   "5 or more words"
+  ],
+  "health": [
+   "seizure disorder"
+  ],
+  "testing": [
+   "district reading assessments"
+  ]
+ },
+ "must_not": [],
+ "ids": [
+  "Ava",
+  "Patel",
+  "11/02/2018",
+  "77310452",
+  "Priya",
+  "Raj",
+  "555-201"
+ ],
+ "file": "sample-narrative.pdf"
+}

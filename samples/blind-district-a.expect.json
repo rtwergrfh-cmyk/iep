@@ -1,0 +1,46 @@
+{
+ "file": "blind-district-a.pdf",
+ "blind": true,
+ "must": {
+  "strengths": [
+   "soccer"
+  ],
+  "accom": [
+   "written list of the steps",
+   "recorded versions",
+   "quiet signal",
+   "type written responses"
+  ],
+  "testing": [
+   "Time and a half",
+   "read aloud"
+  ],
+  "goals": [
+   "115 words correct",
+   "multi-step equations",
+   "15 minutes"
+  ],
+  "services": [
+   "Reading intervention",
+   "Speech and language",
+   "counselor"
+  ],
+  "health": [
+   "shellfish"
+  ]
+ },
+ "must_not": [
+  "Seat her near the board",
+  "Fewer items on homework",
+  "Daily check of her agenda",
+  "Alternate assessment",
+  "progress updates"
+ ],
+ "ids": [
+  "Sofia",
+  "Ortega",
+  "07/04/2014",
+  "5520918",
+  "Elena"
+ ]
+}

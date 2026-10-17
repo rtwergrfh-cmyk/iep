@@ -1,0 +1,46 @@
+{
+ "file": "blind-district-b.pdf",
+ "blind": true,
+ "must": {
+  "strengths": [
+   "talented artist",
+   "polite"
+  ],
+  "accom": [
+   "Preview new vocabulary",
+   "two-minute warning",
+   "printed copy of slides",
+   "wobble stool"
+  ],
+  "mods": [
+   "8 words",
+   "10 problems"
+  ],
+  "behavior": [
+   "crumples",
+   "get out of writing",
+   "drawing or by talking",
+   "help\" card",
+   "Stay calm"
+  ],
+  "personnel": [
+   "psychologist"
+  ],
+  "services": [
+   "writing support",
+   "occupational therapy"
+  ],
+  "goals": [
+   "4-sentence paragraph",
+   "instead of hiding"
+  ]
+ },
+ "must_not": [
+  "No health concerns"
+ ],
+ "ids": [
+  "Tyrell",
+  "Banks",
+  "02/18/2016"
+ ]
+}

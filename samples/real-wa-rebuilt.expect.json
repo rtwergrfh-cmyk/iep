@@ -1,0 +1,66 @@
+{
+ "file": "real-wa-rebuilt.pdf",
+ "real": true,
+ "must": {
+  "strengths": [
+   "works hard and does quality work",
+   "sense of humor"
+  ],
+  "health": [
+   "reading glasses"
+  ],
+  "accom": [
+   "alternative schedule",
+   "breaks available",
+   "resolve anger",
+   "complete assignments/tests",
+   "Extended time to complete"
+  ],
+  "mods": [
+   "alter weight",
+   "modified assignments"
+  ],
+  "testing": [
+   "dictionary",
+   "manipulatives"
+  ],
+  "goals": [
+   "calculate problems using a calculator",
+   "independently solve the problem",
+   "improving fluency",
+   "answer comprehension questions",
+   "will comply",
+   "without aggression",
+   "work with staff and peers",
+   "complete the assignment",
+   "write a paragraph",
+   "punctuation and capitalization improving"
+  ],
+  "services": [
+   "Math",
+   "Reading",
+   "Writing",
+   "Social/Emotional",
+   "Study Skills"
+  ]
+ },
+ "must_not": [
+  "law enforcement",
+  "FBI",
+  "Required by law",
+  "half-day schedule",
+  "reluctant to read",
+  "refuses to read aloud",
+  "pushed a chair"
+ ],
+ "ids": [
+  "Marcus",
+  "Webb",
+  "Denise",
+  "4471902",
+  "8830215774",
+  "03/02/1996",
+  "555-0119",
+  "Alder Street"
+ ]
+}

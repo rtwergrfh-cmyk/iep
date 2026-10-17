@@ -1,0 +1,49 @@
+{
+ "file": "reported-amara.pdf",
+ "must": {
+  "health": [
+   "911",
+   "do not restrain"
+  ],
+  "accom": [
+   "1.5x",
+   "hand-over-hand",
+   "Check in with her"
+  ],
+  "testing": [
+   "2x"
+  ],
+  "behavior": [
+   "Leaving her seat",
+   "short chunks",
+   "2-minute warning"
+  ],
+  "goals": [
+   "two-step word problems"
+  ],
+  "services": [
+   "Specialized academic instruction"
+  ]
+ },
+ "must_not": [
+  "calculator",
+  "does not require assistive technology",
+  "follow the plan in the attached document"
+ ],
+ "sub": {
+  "short chunks": "Prevent it",
+  "2-minute warning": "Prevent it"
+ },
+ "off_by_default": [
+  "Other Health Impairment",
+  "diagnosis of ADHD"
+ ],
+ "ids": [
+  "Amara",
+  "Bello",
+  "Grace",
+  "06/30/2014",
+  "Devon",
+  "Kayla"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "plan": "504",
+ "must": {
+  "accom": [
+   "eat a snack",
+   "water and her glucose meter",
+   "restroom",
+   "make up the work"
+  ],
+  "testing": [
+   "treat a low",
+   "small group"
+  ],
+  "health": [
+   "15 grams",
+   "911",
+   "Never send her to the nurse alone"
+  ]
+ },
+ "must_not": [],
+ "ids": [
+  "Lily",
+  "Tran",
+  "Kevin",
+  "08/19/2015"
+ ],
+ "file": "sample-504-ca.pdf"
+}

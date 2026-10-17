@@ -1,0 +1,66 @@
+{
+ "must": {
+  "strengths": [
+   "creative storyteller",
+   "works well with a partner"
+  ],
+  "accom": [
+   "Preferential seating",
+   "Refocusing",
+   "Checks for understanding",
+   "Copy of class notes",
+   "Directions repeated",
+   "Visual checklist"
+  ],
+  "at": [
+   "Speech-to-text"
+  ],
+  "personnel": [
+   "Consultation"
+  ],
+  "testing": [
+   "Extended time",
+   "Separate location",
+   "read aloud",
+   "Breaks"
+  ],
+  "goals": [
+   "multisyllabic",
+   "inferential",
+   "paragraph with a topic sentence",
+   "break card"
+  ],
+  "services": [
+   "Integrated Co-Teaching",
+   "Resource Room",
+   "Speech/Language",
+   "Counseling"
+  ],
+  "behavior": [
+   "Leaving the assigned work area",
+   "escape writing",
+   "short steps",
+   "speech-to-text or writing by hand",
+   "2-minute warning",
+   "3-minute break",
+   "return to her seat"
+  ],
+  "health": [
+   "peanut allergy"
+  ]
+ },
+ "must_not": [
+  "Progress reports",
+  "Special Transportation"
+ ],
+ "ids": [
+  "Maya",
+  "Thompson",
+  "03/14/2016",
+  "204517883",
+  "Denise",
+  "555-0142",
+  "Orchard"
+ ],
+ "file": "sample-ny-form.pdf"
+}

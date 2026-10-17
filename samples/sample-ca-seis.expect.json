@@ -1,0 +1,58 @@
+{
+ "must": {
+  "strengths": [
+   "curious",
+   "hands-on projects"
+  ],
+  "accom": [
+   "Extended time on assignments",
+   "calculator",
+   "Graphic organizers",
+   "Chunk long assignments",
+   "check-ins",
+   "Seat away from doors",
+   "model or example"
+  ],
+  "mods": [
+   "Reduced homework"
+  ],
+  "personnel": [
+   "Training"
+  ],
+  "testing": [
+   "Text-to-speech",
+   "Separate setting",
+   "Breaks",
+   "Noise buffers"
+  ],
+  "goals": [
+   "five-paragraph essay",
+   "planner",
+   "stay on task"
+  ],
+  "services": [
+   "Specialized Academic Instruction",
+   "Language and Speech",
+   "Counseling"
+  ],
+  "behavior": [
+   "Verbal refusal",
+   "Long writing assignments",
+   "model paragraph",
+   "10-minute chunks",
+   "help card",
+   "choice between two ways"
+  ]
+ },
+ "must_not": [],
+ "ids": [
+  "Ethan",
+  "Nguyen",
+  "08/22/2013",
+  "1234567890",
+  "Linh",
+  "510-555",
+  "Harbor Street"
+ ],
+ "file": "sample-ca-seis.pdf"
+}

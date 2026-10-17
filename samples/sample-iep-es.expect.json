@@ -1,0 +1,51 @@
+{
+ "lang": "es",
+ "must": {
+  "strengths": [
+   "fútbol"
+  ],
+  "health": [
+   "inhalador"
+  ],
+  "accom": [
+   "Tiempo adicional",
+   "Asiento preferencial",
+   "voz alta",
+   "Organizadores gráficos",
+   "Descansos"
+  ],
+  "mods": [
+   "más cortas"
+  ],
+  "at": [
+   "dictado por voz"
+  ],
+  "testing": [
+   "excepto en la prueba de lectura",
+   "Grupo pequeño"
+  ],
+  "behavior": [
+   "Sale del salón",
+   "Tareas largas",
+   "Dividir las tareas",
+   "lo sigue a distancia"
+  ],
+  "goals": [
+   "90% de precisión",
+   "cinco oraciones"
+  ],
+  "services": [
+   "Instrucción académica especializada",
+   "habla y lenguaje"
+  ]
+ },
+ "must_not": [],
+ "ids": [
+  "Mateo",
+  "Hernández",
+  "Lucía",
+  "05/02/2016",
+  "555-0187"
+ ],
+ "file": "sample-iep-es.pdf"
+}

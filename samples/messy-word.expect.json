@@ -1,0 +1,39 @@
+{
+ "file": "messy-word.pdf",
+ "must": {
+  "accom": [
+   "away from the door",
+   "slant board",
+   "one direction at a time",
+   "visual timer",
+   "answer orally"
+  ],
+  "services": [
+   "reading instruction",
+   "occupational therapy",
+   "consult"
+  ],
+  "goals": [
+   "40 words correctly",
+   "lowercase letters",
+   "stay with the group"
+  ],
+  "health": [
+   "hearing loss"
+  ],
+  "strengths": [
+   "dinosaurs"
+  ]
+ },
+ "must_not": [
+  "progress reports"
+ ],
+ "ids": [
+  "Marcus",
+  "Lee",
+  "01/30/2019",
+  "S-4410937",
+  "Diane",
+  "Robert"
+ ]
+}

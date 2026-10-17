@@ -1,0 +1,36 @@
+{
+ "plan": "504",
+ "must": {
+  "accom": [
+   "Preferential seating",
+   "time and a half",
+   "5 minutes",
+   "class notes",
+   "Check for understanding",
+   "planner"
+  ],
+  "testing": [
+   "Small group administration",
+   "structured reminders"
+  ]
+ },
+ "must_not": [
+  "Major life activities",
+  "committee determined",
+  "504 Coordinator"
+ ],
+ "off_by_default": [
+  "ADHD"
+ ],
+ "ids": [
+  "Noah",
+  "Delgado",
+  "Teresa",
+  "03/12/2012",
+  "8840215",
+  "555-0144",
+  "Gomez",
+  "Daniel Fry"
+ ],
+ "file": "sample-504-tx.pdf"
+}

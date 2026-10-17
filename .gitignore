@@ -1,0 +1,5 @@
+node/pdfjs-dist/
+dist/artifact.html
+*.zip
+real-samples/
+dist/class-artifact.html

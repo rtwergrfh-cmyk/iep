@@ -1,0 +1,65 @@
+{
+ "file": "real-ca-fresno-rebuilt.pdf",
+ "real": true,
+ "must": {
+  "strengths": [
+   "soft music",
+   "smartboard activities",
+   "technology-driven"
+  ],
+  "accom": [
+   "attention before speaking",
+   "variety of modalities",
+   "Flexible seating",
+   "one at at time",
+   "Visual Cues",
+   "Scribe",
+   "manipulatives and images",
+   "Alternate Response Options",
+   "Reduce distractions",
+   "Extended time",
+   "Check for understanding",
+   "Yoga ball",
+   "Extra support person"
+  ],
+  "mods": [
+   "Shorten assignments",
+   "Errorless Learning"
+  ],
+  "at": [
+   "picture icons"
+  ],
+  "behavior": [
+   "scratching and biting"
+  ],
+  "goals": [
+   "correctly chose his name"
+  ],
+  "services": [
+   "Language and speech",
+   "Specialized Academic Instruction",
+   "Occupational therapy",
+   "Behavior intervention"
+  ]
+ },
+ "must_not": [
+  "Alternate Assessment without Designated",
+  "Non-Embedded",
+  "Out of testing range",
+  "Linguistically appropriate",
+  "235 min",
+  "Rosa",
+  "GenEd with support",
+  "program accommodations are not needed"
+ ],
+ "ids": [
+  "Liam",
+  "Ortiz",
+  "Rosa",
+  "04/22/2013",
+  "3018847",
+  "6609123481",
+  "555-0148",
+  "Shields"
+ ]
+}
